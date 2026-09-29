@@ -1,0 +1,16 @@
+CW-02 SUBMISSION CHECKLIST
+
+[ ] Run setup_flutter_project.ps1 if Android/platform folders are missing
+[ ] Run: flutter pub get
+[ ] Run the app and test all five movie cards
+[ ] Open each DetailsScreen and confirm title, poster, cast, and synopsis display
+[ ] Add/remove at least two movies from the watchlist
+[ ] Open My Watchlist and confirm only saved movies appear
+[ ] Press Back and confirm navigation works
+[ ] Make multiple meaningful Git commits (do not falsify timestamps)
+[ ] Push the repository to GitHub
+[ ] Run: flutter build apk --release
+[ ] Locate build/app/outputs/flutter-apk/app-release.apk
+[ ] Submit the APK
+[ ] Submit the GitHub repository link
+[ ] Submit CW-02_Critical_Thinking_Jamison_Braxton.docx if your instructor requests it separately
