@@ -1,6 +1,7 @@
 # Movie Watchlist App
-
-CSC 4360/6360 CW-02 Flutter Movie Watchlist App.
+Jamison Braxton
+002688737
+CSC 4360 CW-02 Flutter Movie Watchlist App.
 
 ## Features
 - Scrollable HomeScreen with five movies
